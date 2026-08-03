@@ -1,0 +1,75 @@
+Contact List Export - March 2026
+================================
+
+Please reach out to the following team members:
+
+Primary contacts:
+- alice.johnson@example.com
+- bob.smith@company.org
+- carol.white@tech-startup.io
+
+Duplicate entry for testing: alice.johnson@example.com
+Another duplicate (case variant): ALICE.JOHNSON@example.com
+
+Developers:
+dev.one@mail.co.uk
+dev.two@sub.domain.net
+invalid..double.dot@bad.com
+missing-at-sign.com
+not-an-email@
+@no-local-part.com
+spaces in name@wrong.com
+plainaddress
+
+Support desk emails:
+support@helpdesk.com
+help@my-service.dev
+contact_us@business-app.info
+
+Embedded in sentences:
+Send reports to analytics@datacorp.ai before Friday.
+For billing questions email finance.team@enterprise.org anytime.
+Reach hr-dept@workplace.co for HR matters.
+
+Invalid patterns mixed with valid ones:
+user@domain
+user@.com
+user@-domain.com
+user@domain..com
+user name@domain.com
+user@domain.c
+.user@domain.com
+user.@domain.com
+
+Marketing list:
+marketing@newsletter.shop
+promo@sale-store.online
+news@updates-portal.app
+marketing@newsletter.shop
+
+International / specialty TLDs:
+info@travel-agency.travel
+sales@cloud-services.cloud
+admin@open-source.software
+
+Edge cases:
+valid+tag@email-provider.com
+first.last@department.gov
+numbers123@stats4u.net
+dash-name@my-domain.org
+
+More invalid entries:
+email@domain,com
+email@@double-at.com
+email@domain .com
+just-text-not-email
+12345
+
+Final valid batch:
+team.lead@project-hub.io
+intern@startup.dev
+ceo@bigcorp.com
+qa.engineer@testlab.tech
+security@secure-net.security
+
+End of file.
